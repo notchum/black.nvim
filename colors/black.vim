@@ -1,1 +1,1 @@
-lua require('black')
+lua require('black').setup()
